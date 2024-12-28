@@ -24,6 +24,16 @@ Once the app is running, you can use an emulator or connect your device to previ
 ## Download
 You can download the APK using this link: [Download APK](https://drive.google.com/file/d/1jHXqmSCVPFvNgcUvm-JXkcLSoQl4knRT/view?usp=drive_link)
 
+
+## Results
+Here are the results of the app:
+
+![Screenshot 1](Res1.jpg)
+![Screenshot 2](Res2.jpg)
+![Screenshot 1](Res3.jpg)
+![Screenshot 2](Res4.jpg)
+
+
  
 
 
