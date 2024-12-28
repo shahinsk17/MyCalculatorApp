@@ -1,5 +1,5 @@
 ﻿# MyCalculatorApp
-alc by Shahin - A Simple Calculator App
+Calc by Shahin - A Simple Calculator App
 
 This is a basic and elegant calculator app built with React Native. It supports basic arithmetic operations with a clean user interface.
 
