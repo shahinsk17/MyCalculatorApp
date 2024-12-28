@@ -7,4 +7,18 @@ Features
 Perform addition, subtraction, multiplication, division, and percentage calculations.
 Clear and reset options for easy input management.
 Error handling for invalid inputs.
-Footer branding with "Calc by Shahin."  
+Footer branding with "Calc by Shahin."    
+
+Installation
+Clone the repository: git clone https://github.com/shahinsk17/MyCalculatorApp.git
+
+Navigate to the project directory: cd MyCalculatorApp
+
+Install dependencies: npm install
+
+Run the application: npm start
+
+Once the app is running, you can use an emulator or connect your device to preview the app.  
+
+ 
+
