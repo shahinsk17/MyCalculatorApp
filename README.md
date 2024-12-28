@@ -20,5 +20,10 @@ Run the application: npm start
 
 Once the app is running, you can use an emulator or connect your device to preview the app.  
 
+
+## Download
+You can download the APK using this link: [Download APK](https://drive.google.com/file/d/1jHXqmSCVPFvNgcUvm-JXkcLSoQl4knRT/view?usp=drive_link)
+
+
  
 
