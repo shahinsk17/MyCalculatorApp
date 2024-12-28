@@ -27,8 +27,8 @@ You can download the APK using this link: [Download APK](https://drive.google.co
  ## Results
 Here are the results of the app:
 
-![Screenshot 1](res1.jpg)
-![Screenshot 2](res2.jpg)
+![Screenshot 1](Res1.jpg)
+![Screenshot 2](Res2.jpg)
 
 
  
